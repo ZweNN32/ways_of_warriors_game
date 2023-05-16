@@ -1,0 +1,14 @@
+Instructions :
+
+For player1
+ 
+The keys (a,w,d) are used to move and to jump.The keys (z,x) are used to attack.
+
+For player2
+
+The arrow keys are used to move and to jump.The numbers (1,2) beside the "ENTER" buttons are used to attack.
+
+
+Creditss :
+
+The images in warrior1 and warrior2 are provided by LuizMelo at https://luizmelo.itch.io . The music2.mp3 is provided by LuLu Production in Asia at https://audiojungle.net . The music1.mp3 is provided by Vladisor Martirosov in Dramatic Action Adventure at https://audiojungle.net .
